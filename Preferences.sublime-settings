@@ -1,0 +1,30 @@
+{
+	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignore_packages":
+	[
+	],
+	"ignored_packages":
+	[
+		"Color Highlighter",
+		"ERB Autocomplete",
+		"Alternative Autocompletion",
+		//"Emmet",
+		"Rails Developer Snippets",
+		"ColorSchemeSelector",
+		"Github Color Theme",
+		"BracketHighlighter",
+		"CSS Format",
+		"AutoFileName"
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"rulers":
+	[
+		80
+	],
+	"show_full_path": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
+}
